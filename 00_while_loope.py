@@ -7,7 +7,7 @@ else:
     print("after loop",counter)
 
 
-print("end of program")
+print("oof program")
 ## yalwe
 
 
