@@ -16,6 +16,3 @@ while count<10:
 else:
     print("place after a loop",count)
 print("end of program")
-
-
-    
