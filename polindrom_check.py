@@ -11,3 +11,4 @@ for x in range(0,lenhgt-1):
         break
 else:
     print("polindrom")
+    
